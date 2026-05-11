@@ -34,3 +34,5 @@ build/
 
 ### Claude Code ###
 .claude/
+
+.DS_Store
